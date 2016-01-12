@@ -1,2 +1,2 @@
 # accesibilidadWeb
-Página web de accesibilidad
+Página web de accesibilidad, todos los archivos.
